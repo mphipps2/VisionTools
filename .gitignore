@@ -1,0 +1,13 @@
+#ignore these file types:
+*.log
+*.root
+*.png
+*.pdf
+*.o
+*.h5
+*.npy
+*.pickle
+*.pyc
+*~
+#*
+env
